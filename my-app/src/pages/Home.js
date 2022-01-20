@@ -46,7 +46,7 @@ const Home = () => {
                 bottom: 250,
               }}
             >
-              Clément Rouet
+              Lorem Ipsum
             </motion.h1>
             <motion.h2
               drag
